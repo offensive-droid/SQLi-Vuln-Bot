@@ -114,4 +114,4 @@ async def where_id(ctx, *args):
 
 
 
-client.run('OTg1NTQ3NDU5NzUxMTg2NDMy.GutYPS.jgJU09kfjQ0mfJWtWD8oZ6f_vX-jchG1I6-UzE')
+client.run('')
