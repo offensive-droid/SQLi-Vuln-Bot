@@ -27,7 +27,7 @@ This project demonstrates a basic example of a bot application that is vulnerabl
 
 1. Clone the repository:
 ```bash
-   git clone https://github.com/yourusername/sql-injection-bot.git
+git clone https://github.com/yourusername/sql-injection-bot.git
 ```
 
 2. Create the database using create_db.py:
